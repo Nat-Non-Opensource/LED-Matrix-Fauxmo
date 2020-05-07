@@ -1,6 +1,5 @@
-# esp32fauxmo
+# LED Matrix 16x8 Fauxmo
 
-faux (\ˈfō\): imitation
-WeMo: Belkin home automation product with which the Amazon Echo can interface
+Say ```Alexa, Turn on "Matrix lamp"``` to toggle state
 
-Fauxmo (\ˈfō-mō\): 
+While waiting for change state the matrix will scroll the text.
